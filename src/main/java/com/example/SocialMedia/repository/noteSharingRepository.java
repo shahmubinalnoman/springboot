@@ -7,7 +7,7 @@ import com.example.SocialMedia.entity.NoteTaking;
 
 
 @Repository
-public interface noteSharingRepository extends JpaRepository<NoteTaking, Long> {
+public interface NoteSharingRepository extends JpaRepository<NoteTaking, Long> {
 
     
 }

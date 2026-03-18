@@ -22,6 +22,4 @@ public class NoteTaking {
     private String author;
     private String authoremail;
     private String password;
-
-
 }
